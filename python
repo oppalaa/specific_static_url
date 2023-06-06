@@ -1,0 +1,3 @@
+Found another file with the destination path 'images\prakash.webp'. It will be ignored since only the first encountered file is collected. If this is not what you want, make sure every static file has a unique path.
+
+127 static files copied to 'C:\Users\oppal\OneDrive\Documents\Desktop\74DA1\naveen\Scripts\project8\static'.
